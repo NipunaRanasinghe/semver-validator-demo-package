@@ -1,0 +1,4 @@
+[package]
+org = "elon"
+name = "stringutils"
+version = "1.0.0"
